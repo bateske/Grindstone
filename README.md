@@ -49,10 +49,9 @@ Bullets now draw tracer effects. Arrows now stick into walls and can be knocked 
 
 Bullets now trace to camera center point. Target barrels and boxes added to the level. Rocket Launcher and Pulse Cannon added to the game and level. Rocket projectiles create smoke and cause damage but do not create any physics impulses. 
 
-# Video 10, check this one out!
-Headphone warning!
-
 [![Alt text](https://img.youtube.com/vi/ia5PK35nQM4/0.jpg)](https://www.youtube.com/watch?v=ia5PK35nQM4)
+
+Headphone warning!
 
 Added object highlights and bullet holes. Oil spill from the barrel now leaves oil on the ground. Bullet holes and oil spills decals have a maximum spawn managed globally and slowly decrease in size over time. Blood decals are added. Head shots do extra damage and spawn extra blood particles. Rockets now explode causing radial physics damage. NPCs that fall over and still alive get back up dynamically.
 
@@ -63,6 +62,9 @@ Added bloody footprints.
 [![Alt text](https://img.youtube.com/vi/Z7NGZVl6OzU/0.jpg)](https://www.youtube.com/watch?v=Z7NGZVl6OzU)
 
 Stepping in oil and blood now causes footprints. Head shots now explode the head and have more blood particles.
+
+
+# Video 10, check this one out!
 
 [![Alt text](https://img.youtube.com/vi/rODXDiNneOI/0.jpg)](https://www.youtube.com/watch?v=rODXDiNneOI)
 
