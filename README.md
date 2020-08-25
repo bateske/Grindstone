@@ -49,7 +49,7 @@ Bullets now draw tracer effects. Arrows now stick into walls and can be knocked 
 
 Bullets now trace to camera center point. Target barrels and boxes added to the level. Rocket Launcher and Pulse Cannon added to the game and level. Rocket projectiles create smoke and cause damage but do not create any physics impulses. 
 
-#Video 10, check this one out!
+# Video 10, check this one out!
 Headphone warning!
 
 [![Alt text](https://img.youtube.com/vi/ia5PK35nQM4/0.jpg)](https://www.youtube.com/watch?v=ia5PK35nQM4)
