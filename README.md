@@ -6,6 +6,8 @@ So, before the pandemic hit I was working on brushing up my game development ski
 
 By modern standards it's quite cartoonish but it's worth noting there are simulated guns and blood in the videos below.
 
+# tldr; check out video 10
+
 The goal with this originally to make a cartoonish puzzle based physics single player shooter with only 3 to 5 levels or something. I wanted it to be a demo to show off to potential employers that I can do game development.
 
 Was hoping to go to GDC this year, show off the Arduboy to get them to go view my portfolio which would have this in it.
@@ -47,9 +49,10 @@ Bullets now draw tracer effects. Arrows now stick into walls and can be knocked 
 
 Bullets now trace to camera center point. Target barrels and boxes added to the level. Rocket Launcher and Pulse Cannon added to the game and level. Rocket projectiles create smoke and cause damage but do not create any physics impulses. 
 
-[![Alt text](https://img.youtube.com/vi/ia5PK35nQM4/0.jpg)](https://www.youtube.com/watch?v=ia5PK35nQM4)
-
+#Video 10, check this one out!
 Headphone warning!
+
+[![Alt text](https://img.youtube.com/vi/ia5PK35nQM4/0.jpg)](https://www.youtube.com/watch?v=ia5PK35nQM4)
 
 Added object highlights and bullet holes. Oil spill from the barrel now leaves oil on the ground. Bullet holes and oil spills decals have a maximum spawn managed globally and slowly decrease in size over time. Blood decals are added. Head shots do extra damage and spawn extra blood particles. Rockets now explode causing radial physics damage. NPCs that fall over and still alive get back up dynamically.
 
